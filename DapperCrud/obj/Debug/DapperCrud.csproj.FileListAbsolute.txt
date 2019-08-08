@@ -1,0 +1,13 @@
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\bin\Debug\DapperCrud.exe.config
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\bin\Debug\DapperCrud.exe
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\bin\Debug\DapperCrud.pdb
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\bin\Debug\Dapper.dll
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\bin\Debug\Dapper.xml
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.Form1.resources
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.Properties.Resources.resources
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csproj.CopyComplete
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.exe
+C:\Users\Leo\source\repos\DapperCrud\DapperCrud\obj\Debug\DapperCrud.pdb
